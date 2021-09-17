@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="work1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b27d81aa-1ff6-4252-862f-5c93ceeb92fd" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/work_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/work_jar2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_hankcs_hanlp_portable_1_5_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/META-INF/maven/com.hankcs/hanlp/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/META-INF/maven/com.hankcs/hanlp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/HanLP$Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/HanLP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ArrayCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ArrayDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/Dijkstra.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/EditDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/LongestCommonSubsequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/LongestCommonSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/MaxHeap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/VectorDistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/Viterbi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/Interval.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalNode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalNode$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/Intervalable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalableComparatorByPosition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/interval/IntervalableComparatorBySize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/Emit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/FragmentToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/MatchToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/Token.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/Trie$IWalker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/algorithm/ahocorasick/trie/TrieConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/classifiers/AbstractClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/classifiers/IClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/classifiers/NaiveBayesClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/collections/FrequencyMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/AbstractDataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/BagOfWordsDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/Catalog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/FileDataSet$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/FileDataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/IDataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/ITermFrequencyHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/Lexicon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/corpus/MemoryDataSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/BaseFeatureData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/ChiSquareFeatureExtractor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/ChiSquareFeatureExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/DfFeatureData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/IFeatureWeighter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/TfIdfFeatureWeighter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/features/TfOnlyFeatureWeighter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/models/AbstractModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/models/NaiveBayesModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/statistics/ContinuousDistributions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/statistics/evaluations/Evaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/statistics/evaluations/FMeasure.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/BigramTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/BlankTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/CharTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/CharType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/HanLPTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/tokenizers/ITokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/CollectionUtility$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/CollectionUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/MathUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/Predefine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/TextProcessUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/io/ConsoleLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/classification/utilities/io/ILogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$DebugArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$Hit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$IHit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie$IHitFull.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/AhoCorasickDoubleArrayTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/AhoCorasick/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAG$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAG$SearchCondition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAGMap$MDAGForMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAGMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAGNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/MDAGSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/MDAG/SimpleMDAGNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/DartMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/DoubleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/AutoBytePool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/AutoIntPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/BitVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/DawgBuilder$DawgNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/DawgBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/DoubleArrayBuilder$DoubleArrayBuilderExtraUnit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/DoubleArrayBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/dartsclone/details/Keyset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/sequence/SString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/set/UnEmptyStringSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/DoubleArrayTrie$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/DoubleArrayTrie$LongestSearcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/DoubleArrayTrie$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/DoubleArrayTrie$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/DoubleArrayTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/ITrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/BaseNode$Status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/BaseNode$TrieEntry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/BaseNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/BinTrie$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/BinTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/Node$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/_EmptyValueArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/_ValueArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/collection/trie/bintrie/util/ArrayTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNLLFixer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNLLLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNLLSentence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNLLSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNLLWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/CoNllLine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/Evaluator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/CoNll/PosTagCompiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/model/MaxEntDependencyModelMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/model/WordNatureWeightModelMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dependency/model/WordNatureWeightScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/CommonDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/CommonSuffixExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/DictionaryMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/DictionaryMaker$Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/DictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/EasyDictionary$Attribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/EasyDictionary$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/EasyDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/ISaveAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NGramDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NRDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NSDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NTDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NatureDictionaryMaker$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/NatureDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/PlaceSuffixDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/SimpleDictionary$Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/SimpleDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/StringDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/StringDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/SuffixDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/TFDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/TMDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/EnumItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/EnumItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/Item$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/SimpleItem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/dictionary/item/SimpleItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/CorpusLoader$Handler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/CorpusLoader$HandlerThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/CorpusLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/sentence/Sentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/sentence/word/CompoundWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/sentence/word/IWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/sentence/word/Word.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/document/sentence/word/WordFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ByteArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ByteArrayFileStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ByteArrayOtherStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ByteArrayStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/EasyReader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/EasyReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/FileIOAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/FolderWalker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ICacheAble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/IIOAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/IOUtil$LineIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/IOUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/LineHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/io/ResourceIOAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/nr/FamilyName.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/nr/NRCorpusLoader$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/nr/NRCorpusLoader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/nr/NameDictionaryMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/Occurrence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/Occurrence$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/Occurrence$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/Occurrence$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/Occurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/PairFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/TermFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/TermOccurrence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/occurrence/TriaFrequency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/synonym/ISynonym.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/synonym/Synonym$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/synonym/Synonym$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/synonym/Synonym.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/synonym/SynonymHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/tag/NR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/tag/NS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/tag/NT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/tag/Nature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/CorpusUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/CustomNatureUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/DictionaryUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/EnumBuster$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/EnumBuster$Memento.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/EnumBuster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/Precompiler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/corpus/util/ReflectionHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/AbstractDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/CRFDependencyParser$CRFModelForDependency$DTag.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/CRFDependencyParser$CRFModelForDependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/CRFDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/IDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/MaxEntDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/MinimumSpanningTreeParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/WordNatureDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/Node$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/POSUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/POSUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/common/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Alphabet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Dependency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Instance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/NeuralNetworkClassifier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/NeuralNetworkDependencyParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/NeuralNetworkParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Parser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/Sample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/TransitionSystem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/action/AbstractInexactAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/action/Action.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/action/ActionFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/action/ActionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/action/ActionUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/AdaOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/BasicOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/ConfigOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/LearnOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/NetworkOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/SpecialOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/option/TestOption.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/parser_dll.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/util/Log.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/util/PosTagUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/util/PosTagUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/util/math.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dependency/nnparser/util/std.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/BaseSearcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/BiGramDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreBiGramMixDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreBiGramTableDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreDictionary$Attribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreDictionaryTransformMatrixDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreSynonymDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CoreSynonymDictionaryEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CustomDictionary$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/CustomDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/TransformMatrixDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonStringDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonSynonymDictionary$SynonymItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonSynonymDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonSynonymDictionaryEx$SynonymItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/CommonSynonymDictionaryEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/common/EnumItemDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/JapanesePersonDictionary$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/JapanesePersonDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/NRConstant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/NRDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/NRPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/PersonDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/PersonDictionary$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/PersonDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nr/TranslatedPersonDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ns/NSDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ns/PlaceDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ns/PlaceDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nt/NTDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nt/OrganizationDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/nt/OrganizationDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/other/CharTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/other/CharType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/Head.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/Integer2PinyinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/Pinyin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/PinyinDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/PinyinDictionary$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/PinyinDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/PinyinUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/SYTDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/Shengmu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/String2PinyinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/TonePinyinString2PinyinConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/py/Yunmu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/stopword/CoreStopWordDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/stopword/CoreStopWordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/stopword/Filter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/stopword/StopWordDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/BaseChineseDictionary$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/BaseChineseDictionary$Searcher.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/BaseChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/HongKongToSimplifiedChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/HongKongToTaiwanChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/HongKongToTraditionalChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/SimplifiedChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/SimplifiedToHongKongChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/SimplifiedToTaiwanChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TaiwanToHongKongChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TaiwanToSimplifiedChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TaiwanToTraditionalChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TraditionalChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TraditionalToHongKongChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/dictionary/ts/TraditionalToTaiwanChineseDictionary.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/phrase/IPhraseExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/phrase/MutualInformationEntropyPhraseExtractor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/phrase/MutualInformationEntropyPhraseExtractor$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/phrase/MutualInformationEntropyPhraseExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word/NewWordDiscover$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word/NewWordDiscover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word/WordInfo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractClosestVectors$Result.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractClosestVectors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractVectorModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractVectorModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/AbstractVectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/CacheCorpus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/ComputeAccuracy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Corpus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Distance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/DocVectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/KMeansClustering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/NeuralNetworkType$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/NeuralNetworkType$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/NeuralNetworkType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Preconditions.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/TextFileCorpus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Train.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/TrainingCallback.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Utility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Vector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/VectorsReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/VocabWord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Word2VecTrainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Word2VecTraining$TrainModelThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Word2VecTraining$VocabWordComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/Word2VecTraining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/WordAnalogy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/WordCluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/mining/word2vec/WordVectorModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/CRFSegmentModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/bigram/BigramDependencyModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/bigram/WordNatureDependencyModel$Attribute.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/bigram/WordNatureDependencyModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/crf/CRFModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/crf/FeatureFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/crf/FeatureTemplate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/crf/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/maxent/Context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/maxent/EvalParameters.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/maxent/MaxEntModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/maxent/UniformPrior.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/trigram/CharacterBasedGenerativeModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/trigram/frequency/Probability$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/model/trigram/frequency/Probability.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nr/JapanesePersonRecognition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nr/PersonRecognition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nr/PersonRecognition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nr/TranslatedPersonRecognition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/ns/PlaceRecognition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nt/OrganizationRecognition$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/recognition/nt/OrganizationRecognition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/CRF/CRFSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/CharacterBasedGenerativeModelSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/DictionaryBasedSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Dijkstra/DijkstraSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Dijkstra/Path/State.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/HMM/HMMSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/NShortSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/Path/AtomNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/Path/CQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/Path/NShortPath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/Path/PathNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/NShort/Path/QueueElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/AhoCorasickDoubleArrayTrieSegment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/AhoCorasickDoubleArrayTrieSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/CommonAhoCorasickDoubleArrayTrieSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/CommonAhoCorasickSegmentUtil$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/CommonAhoCorasickSegmentUtil$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/CommonAhoCorasickSegmentUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/DoubleArrayTrieSegment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/DoubleArrayTrieSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Other/LongestBinSegmentToy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Segment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Segment$WorkThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Segment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Viterbi/Path/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Viterbi/Path/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Viterbi/Path/SimpleGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/Viterbi/ViterbiSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/WordBasedGenerativeModelSegment$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/WordBasedGenerativeModelSegment.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/EdgeFrom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/ResultTerm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/Term.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/Vertex$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/Vertex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/WordNet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/seg/common/wrapper/SegmentWrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/ISuggester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/Suggester.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/BaseScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/IScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/ISentenceKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/editdistance/CharArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/editdistance/EditDistanceScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/lexeme/IdVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/lexeme/IdVectorScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/pinyin/PinyinKey.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/suggest/scorer/pinyin/PinyinScorer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/BM25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/KeywordExtractor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/TextRankKeyword$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/TextRankKeyword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/TextRankSentence$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/summary/TextRankSentence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/BasicTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/IndexTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/NLPTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/NotionalTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/SpeedTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/StandardTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/TraditionalChineseTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/tokenizer/URLTokenizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/ByteUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/CharacterHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/GlobalObjectPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/LexiconUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/MathTools.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/Predefine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/SentencesUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/com/hankcs/hanlp/utility/TextUtility.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/CoreNatureDictionary.mini.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/CoreNatureDictionary.ngram.mini.txt.table.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/CoreNatureDictionary.tr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/custom/CustomDictionary.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/organization/nt.tr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/organization/nt.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/other/CharTable.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/other/CharType.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/person/nr.tr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/person/nr.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/person/nrf.txt.trie.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/person/nrj.txt.trie.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/person/nrj.txt.value.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/pinyin/SYTDictionary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/pinyin/pinyin.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/place/ns.tr.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/place/ns.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/stopwords.txt.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/synonym/CoreSynonym.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/tc/s2t.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/tc/t2hk.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/tc/t2s.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/data/dictionary/tc/t2tw.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work/hammingdistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work/maincheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work/simhash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work/txtrw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/work_jar2/work/txtshort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work/hammingdistance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work/maincheck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work/simhash.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work/txtrw.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/work/txtshort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/hammingdistance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/maincheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/simhash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/txtrw.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/work/txtshort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hanhua-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1yE9uhwRSFnxesvMVB4V0V8sCTM" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Program Files/Java/junit-4.13.2.jar" />
+    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.txtshorttest">
+    <configuration name="hammingdistancetest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.hammingdistancetest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mainchecktest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.mainchecktest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simhashtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.simhashtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="txtrwtest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.txtrwtest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="txtshorttest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="work1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com" />
+      <option name="MAIN_CLASS_NAME" value="com.txtshorttest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.hammingdistancetest" />
+      <item itemvalue="JUnit.mainchecktest" />
+      <item itemvalue="JUnit.simhashtest" />
+      <item itemvalue="JUnit.txtrwtest" />
+      <item itemvalue="JUnit.txtshorttest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.txtshorttest" />
+        <item itemvalue="JUnit.txtrwtest" />
+        <item itemvalue="JUnit.simhashtest" />
+        <item itemvalue="JUnit.mainchecktest" />
+        <item itemvalue="JUnit.hammingdistancetest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="b27d81aa-1ff6-4252-862f-5c93ceeb92fd" name="更改" comment="" />
+      <created>1631806107523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631806107523</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mainchecktest_java$txtrwtest_readTxtTest.ic" NAME="txtrwtest.readTxtTest 覆盖结果" MODIFIED="1631863296090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$mainchecktest.ic" NAME="mainchecktest 覆盖结果" MODIFIED="1631882645116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$mainchecktest_origAndAddTest.ic" NAME="mainchecktest.origAndAddTest 覆盖结果" MODIFIED="1631864691911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$hammingdistancetest_getSimilarityTest.ic" NAME="hammingdistancetest.getSimilarityTest 覆盖结果" MODIFIED="1631870149066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$hammingdistancetest_getHammingDistanceFailTest.ic" NAME="hammingdistancetest.getHammingDistanceFailTest 覆盖结果" MODIFIED="1631864272011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$txtshorttest.ic" NAME="txtshorttest 覆盖结果" MODIFIED="1631882889864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$txtrwtest.ic" NAME="txtrwtest 覆盖结果" MODIFIED="1631882801574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$hammingdistancetest_getHammingDistanceTest.ic" NAME="hammingdistancetest.getHammingDistanceTest 覆盖结果" MODIFIED="1631864244775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$txtrwtest_writeTxtTest.ic" NAME="txtrwtest.writeTxtTest 覆盖结果" MODIFIED="1631863423725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$txtshorttest.ic" NAME="txtshorttest 覆盖结果" MODIFIED="1631871424531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/mainchecktest_java$mainchecktest_origAndAllTest.ic" NAME="mainchecktest.origAndAllTest 覆盖结果" MODIFIED="1631864307555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$simhashtest.ic" NAME="simhashtest 覆盖结果" MODIFIED="1631882691836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$hammingdistancetest_getSimilarityTest.ic" NAME="hammingdistancetest.getSimilarityTest 覆盖结果" MODIFIED="1631874075353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/maincheck_java$hammingdistancetest.ic" NAME="hammingdistancetest 覆盖结果" MODIFIED="1631882444558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.*</FILTER>
+    </SUITE>
+  </component>
+</project>
